@@ -84,5 +84,5 @@ This demo app shows a simple user profile app set up using
 
 #### To start as K8s pod
 
-    docker build -t gakdockerhub/k8s-demo-app:v1.0 .
-    docker push gakdockerhub/k8s-demo-app:v1.0
+    docker build -t gakdockerhub/k8s-demo-app:v1.1 .
+    docker push gakdockerhub/k8s-demo-app:v1.1
